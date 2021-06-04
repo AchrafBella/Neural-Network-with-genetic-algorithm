@@ -20,9 +20,5 @@ To test
 -----------------------
 the class testReseauNeuronesAlgorithmeGenetique.py allows you to test the script
 
-To test 
------------------------
-the class testReseauNeuronesAlgorithmeGenetique.py allows you to test the script
-
 Rapport
 -----------------------
